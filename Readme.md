@@ -30,10 +30,12 @@ Create a fully functional REST API using **Node.js** and **Express.js** that all
    cd task-3-book-api
 
 2. **Install dependencies**
-   ```npm install
+   ```bash
+   npm install
 
 3. **Start the server**
-   ```node index.js
+   ```bash
+   node index.js
 
 4. **Test endpoints using Postman or VS Code REST client**
       | Method | Route        | Description          |
